@@ -104,8 +104,8 @@
 }
 
 .logo {
-  height: 1em;
-  margin-left: 0.5rem;
+  padding: 1em;
+  background-color: #c12a32;
 }
 
 @media (max-width: 600px) {
